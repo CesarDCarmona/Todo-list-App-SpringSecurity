@@ -46,7 +46,7 @@ Configuración de Todo-list-app.
 
 GitHubCLI
 ```
-  gh repo clone CesarDCarmona/todo-list-app
+  gh repo clone CesarDCarmona/Todo-list-App-SpringSecurity
 ```
 o
 Ingresar a 
