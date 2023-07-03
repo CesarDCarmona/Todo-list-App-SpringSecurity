@@ -91,9 +91,9 @@ http://localhost:{puerto}
 <image src="src/main/resources/images/Sesion.png" alt="Descripción de la imagen">
 
 ## Nota:
-Para ingresar a la aplicación es necesario insertar un usuario en la tabla Users generada en tu Base de datos. 
+Para ingresar a la aplicación es necesario generar un usuario.
 
-También puedes hacer uso de la Api user para registrar un usuario.
+Puedes hacer uso de la Api user para registrar un usuario.
 
 ```sql
   http://localhost:8080/api/v1/user/addUser
